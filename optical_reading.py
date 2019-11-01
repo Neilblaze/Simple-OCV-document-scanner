@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import rect
 
-# add image here.
+# import or add image here.
 # We can also use laptop's webcam if the resolution is good enough to capture
 # readable document content
 image = cv2.imread('../Downloads/temp-2.jpg')
