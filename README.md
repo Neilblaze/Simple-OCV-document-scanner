@@ -1,6 +1,7 @@
 # Simple-OCV-document-scanner
 A basic document scanner built using Python &amp; OpenCV
 
+[![HitCount](http://hits.dwyl.io/neilblaze/Simple-OCV-document-scanner.svg)](http://hits.dwyl.io/neilblaze/Simple-OCV-document-scanner)
 
 Document-Scanner
 ================
